@@ -109,3 +109,35 @@ YouTube Desktop Version: https://youtu.be/Rue0Rdjd5lg
 YouTube Short Version: https://youtube.com/shorts/K4Sc1dt66dg  
 Tiktok Long Version: https://www.tiktok.com/@daniel_wwf/video/7288928380571946273  
 TikTok Short: https://www.tiktok.com/@daniel_wwf/video/7288927789816761632  
+
+
+
+## How does freezing tokens on the XRPL work?
+
+### Explainer Text  
+
+Long X/Twitter: https://twitter.com/daniel_wwf/status/1713530164183785571  
+Short X/Twitter: https://x.com/daniel_wwf/status/1713530307641553309   
+
+### Videos  
+
+YouTube Desktop Version: https://youtu.be/dKFBypHaUSg   
+YouTube Short Version: https://youtube.com/shorts/qbeGtkOJ6Vw   
+Tiktok Long Version: https://www.tiktok.com/@daniel_wwf/video/7290155478980611361   
+TikTok Short: https://www.tiktok.com/@daniel_wwf/video/7290158153122073888    
+
+
+
+## What is clawback on the XRP Ledger?
+
+### Explainer Text  
+
+Long X/Twitter: https://twitter.com/daniel_wwf/status/1714268506114720249   
+Short X/Twitter: https://x.com/daniel_wwf/status/1714268760868368445   
+
+### Videos  
+
+YouTube Desktop Version: https://youtu.be/feMx2hopwcE  
+YouTube Short Version: https://youtube.com/shorts/8m0aOV0zkaQ  
+Tiktok Long Version: https://www.tiktok.com/@daniel_wwf/video/7290893816054222112   
+TikTok Short: https://www.tiktok.com/@daniel_wwf/video/7290914484951010592    
